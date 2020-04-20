@@ -1,0 +1,37 @@
+ 
+.list-styles {
+  display:inline;
+  list-style: none;
+}
+.footer-style {
+  font-weight: bold;
+  font-size: 18px;
+}
+.img-style {
+  max-width: 100%;
+}
+.thumbnail-img{
+  max-width: 200px;
+  width: 100px;
+}
+a {
+  cursor: pointer;
+}
+.colors-style {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin: 3px;
+  cursor:pointer;
+  border:1px solid #fff;
+  padding:5px;
+} 
+.colors-style:hover{
+  width: 21px;
+  height: 21px; 
+  padding:4px;
+  margin:1px;
+  border:1px solid #000;
+}
+
+    
